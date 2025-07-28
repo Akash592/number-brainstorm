@@ -1,10 +1,10 @@
-# 🧠 Number Brainstorming
+#  Number Brainstorming
 
 Welcome to **Number Brainstorming** – a collection of daily number-based programming problems designed to improve your logic-building and problem-solving skills using core programming fundamentals.
 
 ---
 
-## 🚀 Purpose
+##  Purpose
 
 This repository is aimed at:
 - Strengthening your understanding of number theory
@@ -13,7 +13,7 @@ This repository is aimed at:
 
 ---
 
-## 📚 Topics Covered
+##  Topics Covered
 
 - Prime numbers
 - Factors and multiples
